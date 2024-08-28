@@ -6,6 +6,10 @@ code and other documents for COMP594
 
 data folder - have data csv files for ULB and CIS Dataset
 
+SimulatedData.ipynb - Code to generate simulated data
+
+XGBoostFHE.ipynb - Code for Simulated and ULB dataset for XGBoost in FHE.
+
 XGBoost_FullyHomomorphicEncryption_Main.ipynb - code for training and testing of XGBoost and Logistic Regression with grid search and Fully Homomorphic encryption through ConcreteML library.
 
 homomorphicEncryptionTest.ipynb - Testing of homomorphic encryption concept
